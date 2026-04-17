@@ -2,5 +2,6 @@
 #currently all .csv/.txt/.toml files are ignored by git where ever they are in the repo.
 # you can specify this even per folder if needed -> data/*.csv (ignores al csv files in the data folder)
 *.csv
-*.txt
 *.toml
+.venv/*
+Weather 2019-2025.*
