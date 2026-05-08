@@ -5,3 +5,7 @@
 *.toml
 .venv/*
 Weather 2019-2025.*
+Train
+Train Disruptions 2019-2025/*
+Train Services 2019-2025/*
+help.txt
