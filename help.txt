@@ -1,0 +1,9 @@
+#while on Johans computer. 
+
+to locate the venv run the following command from the terminal (ctrl + `)
+cd .\repos\master_thesis-yufei\master_thesis\
+
+after running cd, activate the venv using: 
+.\.venv\Scripts\activate   
+
+Good Luck Yufei!!!!!
